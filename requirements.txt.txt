@@ -1,0 +1,6 @@
+matplotlib==3.3.4
+numpy==1.20.2
+dash_html_components==1.1.4
+pandas==1.2.4
+dash_core_components==1.17.1
+plotly==5.2.1
