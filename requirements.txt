@@ -15,5 +15,6 @@ jupyterlab>=2.0
 notebook>=6.0
 jupyterlab_launcher>=0.5.0
 jupyter_server_proxy
+jupyterlab-dash
 jupyter-dash
 pycoingecko
