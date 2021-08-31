@@ -1,5 +1,9 @@
 # Olympus Playground
-Simple projection calculator for Staking and bonding ohm in OlympusDAO protocol
+### Run this notebook on your browser by following the binder link provider. When using binder, all dependencies, modules and packages will be automatically created for you. 
+
+## What is Olympus Playground?
+
+This is a simple projection calculator for Staking and bonding ohm in OlympusDAO protocol
 Welcome to Olympus Playground
 This is an interactive notebook to study, play and forcast the growth of your ohm over time. This notebook is designed to work hand in hand with the awesome gitbook created by the DAO and all of Brians calcs!
 
