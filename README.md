@@ -1,5 +1,5 @@
 # Olympus Playground
-### Run this notebook on your browser by following the binder link provided. When using binder, all dependencies, modules and packages will be automatically created for you. 
+Run this notebook on your browser by following the binder link provided. When using binder, all dependencies, modules and packages will be automatically created for you. 
 
 ## What is Olympus Playground?
 
@@ -7,7 +7,7 @@ This is a simple projection calculator for Staking and bonding ohm in OlympusDAO
 Welcome to Olympus Playground
 This is an interactive notebook to study, play and forcast the growth of your ohm over time. This notebook is designed to work hand in hand with the awesome gitbook created by the DAO and all of Brians calcs!
 
-This calculator will provide the following projections for you:
+### This calculator will provide the following projections for you:
 
 - ROIs at current reward yield
 - ROI after 1 day at current reward yield
@@ -23,7 +23,7 @@ This calculator will provide the following projections for you:
 - Days until desired target OHM
 - OHM and USD ROI and holding on specific date. This data will be provided on an interactive chart where you can hover your mouse over any desired date and view the projection.
 
-Incooom
+### This calculator will provide the following Incooom projections:
 
 - Required OHM to reach desired daily incooom
 - Days until you reach required OHMs for daily incoom (Assuming growth by staking alone)
