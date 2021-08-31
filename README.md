@@ -1,5 +1,5 @@
 # Olympus Playground
-### Run this notebook on your browser by following the binder link provider. When using binder, all dependencies, modules and packages will be automatically created for you. 
+### Run this notebook on your browser by following the binder link provided. When using binder, all dependencies, modules and packages will be automatically created for you. 
 
 ## What is Olympus Playground?
 
