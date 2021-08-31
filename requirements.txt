@@ -6,3 +6,4 @@ dash_core_components==1.17.1
 plotly==5.2.1
 jupyter_server_proxy
 jupyter-dash
+pycoingecko
