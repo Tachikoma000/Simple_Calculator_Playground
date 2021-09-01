@@ -1,3 +1,4 @@
+-r ../requirements.txt
 matplotlib==3.3.4
 numpy==1.20.2
 dash
