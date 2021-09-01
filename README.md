@@ -1,7 +1,7 @@
 # Olympus Playground
 Run this notebook on your browser by following the binder link provided below. When using binder, all dependencies, modules and packages will be automatically created for you.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tachikoma000/Simple_Calculator_Playground/master?urlpath=OlympusDAO%20Simple%20Playground_Dashboard%20Proto_2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tachikoma000/Simple_Calculator_Playground/master)
 
 ## What is Olympus Playground?
 
