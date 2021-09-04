@@ -18,3 +18,6 @@ jupyter_server_proxy
 jupyterlab-dash
 jupyter-dash
 pycoingecko
+dash_table
+dash_bootstrap_components
+dash_html_components
