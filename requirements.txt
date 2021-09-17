@@ -21,3 +21,7 @@ pycoingecko
 dash_bootstrap_components
 dash_html_components
 dash_table
+jupyter-client (5.3.4)
+jupyter-console (6.1.0)
+jupyterlab
+jupyterlab-server
